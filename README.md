@@ -1,65 +1,25 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">AI for Data: Evaluating AI Opportunities</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module equips you to identify, analyze, and advocate for AI use cases that genuinely move the needle. You’ll practice spotting high-potential tasks, rigorously evaluating feasibility and risk, and applying judgment to decide when AI should automate, augment, or step aside for human expertise.
+
+By the end, you’ll have a practical toolkit for championing the *right* AI projects—while flagging the ones that need more scrutiny.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
-
-## References
-
-📖 [Reference Materials](./references/README.md)
-
-## Internal
+| [Spotting High-Potential AI Tasks](./microlesson-01/README.md)           | ~20 min | Identify individual and team-level tasks that fit GenAI’s strengths.            |
+| [Evaluating Use Case Fit: Feasibility, Impact, and Risk](./microlesson-02/README.md) | ~20 min | Use a structured lens to assess AI opportunities for value and safety.          |
+| [Automation vs. Human-in-the-Loop](./microlesson-03/README.md)           | ~20 min | Apply judgment to decide when to automate, augment, or stay hands-on.           |
+| **Total content**                                   | 60 min | Make confident, responsible decisions about real-world AI opportunities.         |
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-### Course landing pages
-
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
-
-### Resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
-
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+- Familiarity with GenAI platforms (e.g. ChatGPT, Gemini, Copilot)
+- Experience with data, workflow, or process improvement in your field
+- Comfort discussing risk and ethics in technology
